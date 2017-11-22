@@ -1,0 +1,19 @@
+{
+  "name": "smsawayinfo",
+  "version": "1.0.0",
+  "description": "Demo purposes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakemtads/smsawayinfo.git"
+  },
+  "author": "Jake Devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakemtads/smsawayinfo/issues"
+  },
+  "homepage": "https://github.com/jakemtads/smsawayinfo#readme"
+}
